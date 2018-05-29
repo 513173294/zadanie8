@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Zadanie {
+public class Zadanie8 {
     public static void main(String[] args) {
 
         String[] imiona = new String[3];
